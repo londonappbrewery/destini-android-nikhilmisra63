@@ -12,7 +12,6 @@
     android:background="@drawable/background">
 
 
-
     <TextView
         android:id="@+id/storyTextView"
         android:text="@string/T1_Story"
@@ -52,6 +51,11 @@
         android:textColor="#ecf0f1"
         android:textSize="15sp"/>
 
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </RelativeLayout>
 
 
 </RelativeLayout>
